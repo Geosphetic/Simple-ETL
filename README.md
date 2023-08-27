@@ -14,3 +14,5 @@ ETL provides the foundation for data analytics and machine learning workstreams.
 3. Load data into a target database
 
 </p>
+<h4>What is Snowflake used for?</h4>
+<p>Snowflake enables data storage, processing, and analytic solutions that are faster, easier to use, and far more flexible than traditional offerings.</p>
