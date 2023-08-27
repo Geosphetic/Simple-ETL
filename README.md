@@ -16,3 +16,7 @@ ETL provides the foundation for data analytics and machine learning workstreams.
 </p>
 <h4>What is Snowflake used for?</h4>
 <p>Snowflake enables data storage, processing, and analytic solutions that are faster, easier to use, and far more flexible than traditional offerings.</p>
+
+<h4>Is Snowflake an ETL tool?</h4>
+<p>
+Snowflake is not an extract, transform, and load (ETL) tool in and of itself. A scalable storage and analytics platform built in the cloud, Snowflake provides data warehousing services. It is made to efficiently store and analyze huge amounts of data.</p>
